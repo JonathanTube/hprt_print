@@ -1,15 +1,9 @@
 # hprt_print
 
-A new flutter plugin project.
+Flutter 汉印便携打印机插件 hprt_print . 目前支持安卓系统
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [开发文档](https://www.yuque.com/bulanni00/whz2kl/fxxmql)
+![Notification](/example/assets/icon/16.jpg)
 
