@@ -4,7 +4,7 @@ Flutter 汉印便携打印机插件 hprt_print . 目前支持安卓系统
 
 ## Getting Started
 
-- [开发文档](https://www.yuque.com/bulanni00/whz2kl/fxxmql)|
-<br>
-![Notification](/example/assets/icon/16.jpg)
+- [开发文档](https://www.yuque.com/bulanni00/whz2kl/fxxmql)
+ 
+-[实例图](/example/assets/icon/16.jpg)
 
