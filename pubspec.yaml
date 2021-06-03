@@ -1,7 +1,7 @@
 name: hprt_print
 description: 汉印便携打印机 打印插件.
 version: 0.0.1
-homepage: https://github.com/PonnamKarthik/FlutterToasts
+homepage: https://github.com/bulanni00/hprt_print
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
