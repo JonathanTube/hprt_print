@@ -1,6 +1,6 @@
 name: hprt_print
-description: 汉印便携打印机 打印插件.
-version: 0.0.1
+description: 蓝牙便携热敏打印机 CPCL 指令, 适用汉印A300, Z3 等热敏打印机
+version: 2.0.1
 homepage: https://github.com/bulanni00/hprt_print
 
 environment:

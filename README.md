@@ -1,6 +1,6 @@
 # hprt_print
 
-Flutter 汉印便携打印机插件 hprt_print . 目前支持安卓系统
+Flutter 蓝牙便携打印机插件 目前支持安卓系统
 
 ## Getting Started
 
